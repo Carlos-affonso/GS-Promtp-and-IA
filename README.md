@@ -155,7 +155,9 @@ Mission-Control-AI/
 
 ## Vídeo de Demonstração
 
-[Assistir ao vídeo](COLOQUE_AQUI_O_LINK_DO_VIDEO)
+[Assistir ao vídeo](https://youtu.be/bHvdxYKnKDY))
+
+Link direto do Youtube: https://youtu.be/bHvdxYKnKDY
 
 ---
 
