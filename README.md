@@ -123,7 +123,7 @@ Os arquivos devem ser colocados na pasta `assets/` do repositório.
 
 1. Acesse o notebook pelo Google Colab:
 
-[Abrir Notebook no Google Colab](COLOQUE_AQUI_O_LINK_DO_COLAB)
+[Abrir Notebook no Google Colab]((https://colab.research.google.com/drive/1SrwexeDIzBj_hXj5kkFe4tuQShLxGaxu?usp=sharing))
 
 2. Execute as células em ordem.
 
