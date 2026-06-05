@@ -6,9 +6,9 @@ Sistema inteligente de monitoramento para controle básico de uma missão espaci
 
 ## Integrantes
 
-* **COLOQUE SEU NOME COMPLETO** — RM: **COLOQUE SEU RM**
-* **COLOQUE O NOME DO INTEGRANTE 2** — RM: **COLOQUE O RM**
-* **COLOQUE O NOME DO INTEGRANTE 3, SE TIVER** — RM: **COLOQUE O RM**
+* CARLOS EDUARDO AFFONSO — RM: 569676
+* IGOR MASSONE MONTEIRO — RM: 573853
+* GABRIEL OLIVEIRA GUSMÃO FLORENCIO DOS SANTOS — RM: 573747
 
 ---
 
